@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Sam. I relocated from NYC to Denver to hone my Software Engineering skills. Recent Flatiron School graduate, and looking forward for the education to continue.
 
 <!--
 **sgold57/sgold57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
