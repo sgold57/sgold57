@@ -1,4 +1,12 @@
-### Hello, I'm Sam. I relocated from NYC to Denver to hone my Software Engineering skills. Recent Flatiron School graduate, and looking forward for the education to continue.
+# Sam Gold 
+
+I relocated from NYC to Denver to hone my Software Engineering skills. Attended the Flatiron School, where I learned React, JavaScript, CSS, HTML, Ruby, and Rails. Picked up some Node.js and C along the way. Looking forward to continuing my education as I find my way in the tech sphere. My propensity for learning is vast.
+
+I used to work in television production, and pivoting to software development has helped me scratch a problem solving itch that my former career just did not satisfy. 
+
+Interests outside of engineering include golf, music, basketball, skiing, and watching films. Happy to connect with any like-minded individuals.
+
+## Technial Proficiencies
 
 <!--
 **sgold57/sgold57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
